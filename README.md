@@ -13,9 +13,10 @@ I’m especially interested in Cybersecurity 🔐 and Artificial Intelligence �
 and I’m currently working with JavaScript, HTML and CSS to build modern and
 functional web applications
 
-I enjoy exploring new tools and technologies 🛠️, and I’m always looking to grow as
-a developer through meaningful projects. While I’m still improving my English 🌍,
-I’m actively working on it and using it daily as part of my learning journey.
+I enjoy exploring new tools and technologies 🛠️, and I’m always looking
+to grow asa developer through meaningful projects. While I’m still improving
+my English 🌍, I’m actively working on it and using it daily as part of
+my learning journey.
 
 ☕ Fueled by coffee, music, and curiosity.
 ```
