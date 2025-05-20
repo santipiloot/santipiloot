@@ -3,8 +3,8 @@ Hi, I'm Santino Pilot!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 <br/>
 
-<img align="left" src="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/blob/main/cropped_image.png" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
 <hr>
+<img style="vertical-align: middle;" align="left" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3g1cnBvcGNsNm5jMjZjMHQ1eTN6ang2ZHhqb29sOHAwcnpldWZ5YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif" width=300 height=250 />
 
 ```
 About me
@@ -40,9 +40,9 @@ About me
 <h3 align="center">Connect with me 🤝</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/"><img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" alt="LinkedIn" /></a>
-  <a href="https://github.com/MrBlueBird2"><img src="https://img.icons8.com/doodle/40/000000/github--v1.png" alt="GitHub" /></a>
-  <a href="mailto:youremail@gmail.com"><img src="https://img.icons8.com/doodle/2x/gmail-new.png" style="width:35px; height:43px;" alt="Email" /></a>
+  <a href="www.linkedin.com/in/santino-pilot-51b642308"><img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" alt="LinkedIn" /></a>
+  <a href="https://github.com/santipiloot"><img src="https://img.icons8.com/doodle/40/000000/github--v1.png" alt="GitHub" /></a>
+  <a href="santino.pilot@gmail.com"><img src="https://img.icons8.com/doodle/2x/gmail-new.png" style="width:35px; height:43px;" alt="Email" /></a>
   <a href="#"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png" alt="Stack Overflow" /></a>
   <a href="#"><img src="https://img.icons8.com/ultraviolet/2x/resume.png" style="width:37px; height:40px;" alt="Resume" /></a>
 </p
