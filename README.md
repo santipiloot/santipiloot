@@ -40,10 +40,9 @@ About me
 <h3 align="center">Connect with me 🤝</h3>
 
 <p align="center">
-  <a href="www.linkedin.com/in/santino-pilot-51b642308"><img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/santino-pilot-51b642308"><img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" alt="LinkedIn" /></a>
   <a href="https://github.com/santipiloot"><img src="https://img.icons8.com/doodle/40/000000/github--v1.png" alt="GitHub" /></a>
-  <a href="santino.pilot@gmail.com"><img src="https://img.icons8.com/doodle/2x/gmail-new.png" style="width:35px; height:43px;" alt="Email" /></a>
-  <a href="#"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png" alt="Stack Overflow" /></a>
-  <a href="#"><img src="https://img.icons8.com/ultraviolet/2x/resume.png" style="width:37px; height:40px;" alt="Resume" /></a>
+  <a href="https://mailto:santipilot@gmail.com"><img src="https://img.icons8.com/doodle/2x/gmail-new.png" style="width:35px; height:43px;" alt="Email" /></a>
+  <a href="https://www.instagram.com/santipiloot/?hl=es%2F"><img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png" style="width:37px; height:40px;" alt="Resume" /></a>
 </p
 
