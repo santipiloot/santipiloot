@@ -4,7 +4,7 @@ Hi, I'm Santino Pilot!
 <br/>
 
 <hr>
-<img style="vertical-align: middle;" align="left" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3g1cnBvcGNsNm5jMjZjMHQ1eTN6ang2ZHhqb29sOHAwcnpldWZ5YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif" width=300 height=240 />
+<img style="vertical-align: middle;" align="left" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3g1cnBvcGNsNm5jMjZjMHQ1eTN6ang2ZHhqb29sOHAwcnpldWZ5YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif" width=300 height=239 />
 
 ```
 I’m a programming student at the National Technological University in
