@@ -1,16 +1,49 @@
-## Hi there 👋
+<h1 align="center">
+Hi, I'm Santino Pilot!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
+<br/>
 
-<!--
-**santipiloot/santipiloot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="left" src="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/blob/main/cropped_image.png" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
+<hr>
 
-Here are some ideas to get you started:
+```
+About me
+-------------------------
+🎓 Programming student at UTN (Argentina)
+💻 Tech enthusiast focused on Full Stack Development
+🧠 Passionate about Cybersecurity and Artificial Intelligence
+🛠 Currently working with JavaScript, HTML, CSS, and Git
+🌱 Learning how to build modern and functional web apps
+🌟 Main language: JavaScript
+🚩 Interested in creating impactful and innovative projects
+💔 In a complicated relationship with English
+🧉 I listen music and enjoy mate or coffee while coding
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr>
+
+<h2 align="center">Languages & Tools</h2> 
+<p align="center">
+<img width="300px" src="https://skillicons.dev/icons?i=js,html,css,git,vscode&perline=10" />
+</p>
+<br />
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=santipiloot&show_icons=true&include_all_commits=true&theme=onedark" alt="Santi's GitHub stats" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santipiloot&layout=compact&theme=onedark" />
+</a>
+
+<br /><br />
+
+<h3 align="center">Connect with me 🤝</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/"><img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" alt="LinkedIn" /></a>
+  <a href="https://github.com/MrBlueBird2"><img src="https://img.icons8.com/doodle/40/000000/github--v1.png" alt="GitHub" /></a>
+  <a href="mailto:youremail@gmail.com"><img src="https://img.icons8.com/doodle/2x/gmail-new.png" style="width:35px; height:43px;" alt="Email" /></a>
+  <a href="#"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png" alt="Stack Overflow" /></a>
+  <a href="#"><img src="https://img.icons8.com/ultraviolet/2x/resume.png" style="width:37px; height:40px;" alt="Resume" /></a>
+</p
+
