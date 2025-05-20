@@ -7,17 +7,16 @@ Hi, I'm Santino Pilot!
 <img style="vertical-align: middle;" align="left" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3g1cnBvcGNsNm5jMjZjMHQ1eTN6ang2ZHhqb29sOHAwcnpldWZ5YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif" width=300 height=220 />
 
 ```
-About me
--------------------------
-🎓 Programming student at UTN (Argentina)
-💻 Tech enthusiast focused on Full Stack Development
-🧠 Passionate about Cybersecurity and Artificial Intelligence
-🛠 Currently working with JavaScript, HTML, CSS, and Git
-🌱 Learning how to build modern and functional web apps
-🌟 Main language: JavaScript
-🚩 Interested in creating impactful and innovative projects
-💔 In a complicated relationship with English
-🧉 I listen music and enjoy mate or coffee while coding
+I’m a programming student at the National Technological University (UTN) in Argentina.
+Passionate about technology and focused on Full Stack Development. I’m especially
+interested in Cybersecurity 🔐 and Artificial Intelligence 🤖, and I’m currently
+working with JavaScript, HTML and CSS to build modern and functional web applications
+
+I enjoy exploring new tools and technologies 🛠️, and I’m always looking to grow as
+a developer through meaningful projects. While I’m still improving my English 🌍,
+I’m actively working on it and using it daily as part of my learning journey.
+
+☕ Fueled by coffee, music, and curiosity.
 ```
 
 <hr>
