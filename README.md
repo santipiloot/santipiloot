@@ -7,11 +7,11 @@ Hi, I'm Santino Pilot!
 <img style="vertical-align: middle;" align="left" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3g1cnBvcGNsNm5jMjZjMHQ1eTN6ang2ZHhqb29sOHAwcnpldWZ5YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif" width=300 height=250 />
 
 ```
-I’m a programming student at the National Technological University in Argentina
-Passionate about technology and focused on Full Stack Development.
-I’m especially interested in Cybersecurity and Artificial Intelligence,
-and I’m currently working with JavaScript, HTML and CSS to build modern and
-functional web applications
+I’m a programming student at the National Technological University in
+Argentina. Passionate about technology and focused on
+Full Stack Development. I’m especially interested in Cybersecurity and
+Artificial Intelligence, and I’m currently working with JavaScript,
+HTML and CSS to build modern and functional web applications
 
 I enjoy exploring new tools and technologies 🛠️, and I’m always looking
 to grow asa developer through meaningful projects. While I’m still improving
