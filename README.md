@@ -11,10 +11,10 @@ I’m a programming student at the National Technological University in
 Argentina. Passionate about technology and focused on
 Full Stack Development. I’m especially interested in Cybersecurity and
 Artificial Intelligence, and I’m currently working with JavaScript,
-HTML and CSS to build modern and functional web applications
+HTML, and CSS to build modern and functional web applications.
 
 I enjoy exploring new tools and technologies 🛠️, and I’m always looking
-to grow asa developer through meaningful projects. While I’m still improving
+to grow as a developer through meaningful projects. While I’m still improving
 my English 🌍, I’m actively working on it and using it daily as part of
 my learning journey.
 
