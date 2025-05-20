@@ -41,9 +41,9 @@ my learning journey.
 <h3 align="center">Connect with me 🤝</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/santino-pilot-51b642308" target="_blank"><img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" alt="LinkedIn" /></a>
-  <a href="https://github.com/santipiloot" target="_blank"><img src="https://img.icons8.com/doodle/40/000000/github--v1.png" alt="GitHub" /></a>
-  <a href="https://mailto:santipilot@gmail.com" target="_blank"><img src="https://img.icons8.com/doodle/2x/gmail-new.png" style="width:35px; height:43px;" alt="Email" /></a>
-  <a href="https://www.instagram.com/santipiloot/?hl=es%2F" target="_blank"><img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png" style="width:37px; height:40px;" alt="Resume" /></a>
+  <a href="https://www.linkedin.com/in/santino-pilot-51b642308"><img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" alt="LinkedIn" /></a>
+  <a href="https://github.com/santipiloot"><img src="https://img.icons8.com/doodle/40/000000/github--v1.png" alt="GitHub" /></a>
+  <a href="https://mailto:santipilot@gmail.com"><img src="https://img.icons8.com/doodle/2x/gmail-new.png" style="width:35px; height:43px;" alt="Email" /></a>
+  <a href="https://www.instagram.com/santipiloot/?hl=es%2F"><img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png" style="width:37px; height:40px;" alt="Resume" /></a>
 </p
 
