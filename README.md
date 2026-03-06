@@ -2,9 +2,11 @@
 
 **`Desarrollador Backend`**
 
-Actualmente, me encuentro finalizando la Tecnicatura Universitaria en Programación, enfocando mi carrera profesional hacia el desarrollo Backend con Node.js. Mi enfoque principal es la creación de APIs que resuelvan problemas reales, sean escalables y aporten valor.
+Actualmente, me encuentro finalizando la Tecnicatura Universitaria en Programación en la UTN, restándome únicamente la aprobación del Proyecto Final para obtener mi titulación. Enfoco mi carrera profesional hacia el desarrollo Backend con Node.js, con el objetivo de crear APIs que resuelvan problemas reales, sean escalables y aporten valor.
 
-Aunque poseo conocimientos fundamentales de Frontend para la integración de interfaces, mi especialización se centra en la arquitectura del lado del servidor y la implementación de código limpio. Actualmente exploro herramientas de containerización y testing para asegurar la calidad y escalabilidad de mis desarrollos. Me apasiona construir herramientas funcionales y listas para ser implementadas, priorizando siempre las buenas prácticas y la mantenibilidad del software.
+Aunque poseo conocimientos fundamentales de Frontend para la integración de interfaces, mi especialización se centra en la arquitectura del lado del servidor y la implementación de código limpio.
+
+Actualmente exploro herramientas de containerización y testing para asegurar la calidad y escalabilidad de mis desarrollos. Me apasiona construir herramientas funcionales y listas para ser implementadas, priorizando siempre las buenas prácticas y la mantenibilidad del software.
 
 ## 🛠️ Stack Tecnológico
 
