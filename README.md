@@ -2,11 +2,12 @@
 
 **`Desarrollador Backend`**
 
-Actualmente, me encuentro finalizando la Tecnicatura Universitaria en Programación en la UTN, restándome únicamente la aprobación del Proyecto Final para obtener mi titulación. Enfoco mi carrera profesional hacia el desarrollo Backend con Node.js, con el objetivo de crear APIs que resuelvan problemas reales, sean escalables y aporten valor.
-
-Aunque poseo conocimientos fundamentales de Frontend para la integración de interfaces, mi especialización se centra en la arquitectura del lado del servidor y la implementación de código limpio.
-
-Actualmente exploro herramientas de containerización y testing para asegurar la calidad y escalabilidad de mis desarrollos. Me apasiona construir herramientas funcionales y listas para ser implementadas, priorizando siempre las buenas prácticas y la mantenibilidad del software.
+👨‍💻 Desarrollador backend. Mi stack principal es Node.js, Express y PostgreSQL. Me gusta construir APIs que resuelvan problemas concretos.
+ 
+En mis proyectos trabajé bastante en cosas como procesamiento de datos en lote, transacciones SQL para mantener la integridad de la información, autenticación con JWT y roles, y automatizaciones (por ejemplo con bots de Telegram y tareas programadas). También tengo algo de experiencia con React y Tailwind cuando hace falta integrar el frontend.
+ 
+🎓 Actualmente estoy terminando la Tecnicatura en Programación en la UTN. Ya terminé de cursar y solo me queda rendir el proyecto final.
+ 
 
 ## 🛠️ Stack Tecnológico
 
