@@ -2,7 +2,7 @@
 
 **`Desarrollador Backend`**
 
-👨‍💻 Desarrollador backend. Mi stack principal es Node.js, Express y PostgreSQL. Me gusta construir APIs que resuelvan problemas concretos.
+Desarrollador backend. Mi stack principal es Node.js, Express y PostgreSQL. Me gusta construir APIs que resuelvan problemas concretos.
  
 En mis proyectos trabajé bastante en cosas como procesamiento de datos en lote, transacciones SQL para mantener la integridad de la información, autenticación con JWT y roles, y automatizaciones (por ejemplo con bots de Telegram y tareas programadas). También tengo algo de experiencia con React y Tailwind cuando hace falta integrar el frontend.
  
